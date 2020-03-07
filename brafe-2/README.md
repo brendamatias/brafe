@@ -1,5 +1,5 @@
 <h1 align="center">
-    Brafé 1 :doughnut:
+    Brafé 2 :doughnut:
 </h1>
 
 <h4 align="center">
@@ -14,17 +14,17 @@
 <br>
 
 <p align="center">
-  <img alt="Brafé 1" src=".github/brafe-1.png" width="100%">
+  <img alt="Brafé 2" src=".github/brafe-2.png" width="100%">
 </p>
 
 ## :ghost: Codificação
 
 Esse projeto foi desenvolvido das seguintes maneiras:
 
-- [CSS Puro](https://github.com/brendamatias/brafe/tree/master/brafe-1/brafe-puro)
-- [Grid](https://github.com/brendamatias/brafe/tree/master/brafe-1/brafe-grid)
-- [Flexbox](https://github.com/brendamatias/brafe/tree/master/brafe-1/brafe-flexbox)
-- [Bootstrap](https://github.com/brendamatias/brafe/tree/master/brafe-1/brafe-bootstrap)
+- [CSS Puro](https://github.com/brendamatias/brafe/tree/master/brafe-2/brafe-puro)
+- [Grid](https://github.com/brendamatias/brafe/tree/master/brafe-2/brafe-grid)
+- [Flexbox](https://github.com/brendamatias/brafe/tree/master/brafe-2/brafe-flexbox)
+- [Bootstrap](https://github.com/brendamatias/brafe/tree/master/brafe-2/brafe-bootstrap)
 
 ## :computer: Projeto
 
@@ -34,10 +34,10 @@ O projeto foi desenvolvido durante o curso de CSS Avançado - Posicionamento by 
 
 O projeto desenvolvido pode ser visto:
 
-- [CSS Puro](https://brendamatias.github.io/brafe/brafe-1/brafe-puro/)
-- [Grid](https://brendamatias.github.io/brafe/brafe-1/brafe-grid/)
-- [Flexbox](https://brendamatias.github.io/brafe/brafe-1/brafe-flexbox/)
-- [Bootstrap](https://brendamatias.github.io/brafe/brafe-1/brafe-bootstrap/)
+- [CSS Puro](https://brendamatias.github.io/brafe/brafe-2/brafe-puro/)
+- [Grid](https://brendamatias.github.io/brafe/brafe-2/brafe-grid/)
+- [Flexbox](https://brendamatias.github.io/brafe/brafe-2/brafe-flexbox/)
+- [Bootstrap](https://brendamatias.github.io/brafe/brafe-2/brafe-bootstrap/)
 
 ---
 
