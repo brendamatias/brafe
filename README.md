@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Brafé" src=".github/brafe.png" width="100%">
+  <img alt="Brafé" src=".github/brafe.png">
 </p>
 
 ## :ghost: Codificação
