@@ -1,6 +1,6 @@
-<h1 align="center">
-    Brafé :doughnut:
-</h1>
+<p align="center">
+  <img alt="Brafé" src=".github/brafe.png">
+</p>
 
 <h4 align="center">
   Code and coffee ☕
@@ -12,10 +12,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Brafé" src=".github/brafe.png">
-</p>
 
 ## :ghost: Codificação
 
